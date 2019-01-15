@@ -5,6 +5,6 @@ This project involves the creation of a detailed design and layout of an ARM LEG
 
 - Use of Quartus II 15.0 (64 Bit) software program 
 - 32 Bit ALU Design in accordance to desired instructions:
-  -AND, ORR, ADD, SUB LDUR (load) and STUR (store)
+  AND, ORR, ADD, SUB LDUR (load) and STUR (store)
 - Register File design (32 x 64-bit)
 - Control Unit Design 
